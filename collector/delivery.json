@@ -1,0 +1,68 @@
+[
+    {
+        "productName": "Potato",
+        "region": "Rajshahi",
+        "price": "31",
+        "quantity": "5"
+    },
+    {
+        "productName": "Potato",
+        "region": "Sylhet",
+        "price": "25",
+        "quantity": "5.0"
+    },
+    {
+        "productName": "Potato",
+        "region": "Rangpur",
+        "price": "29",
+        "quantity": "8.0"
+    },
+    {
+        "productName": "Tomato",
+        "region": "Rajshahi",
+        "price": "69",
+        "quantity": "15"
+    },
+    {
+        "productName": "Tomato",
+        "region": "Rangpur",
+        "price": "68",
+        "quantity": "1"
+    },
+    {
+        "productName": "Tomato",
+        "region": "Khulna",
+        "price": "73",
+        "quantity": "5"
+    },
+    {
+        "productName": "Spinach",
+        "region": "Narayanganj",
+        "price": "27",
+        "quantity": "8.5"
+    },
+    {
+        "productName": "Spinach",
+        "region": "Rajshahi",
+        "price": "26",
+        "quantity": "3.5"
+    },
+    {
+        "productName": "Spinach",
+        "region": "Rangpur",
+        "price": "23",
+        "quantity": "0.5"
+    },
+    {
+        "productName": "Potato",
+        "region": "Rangpur",
+        "price": "29",
+        "quantity": "2"
+    },
+    {
+        "productName": "Potato",
+        "region": "Narayanganj",
+        "price": "36",
+        "quantity": "18"
+    }
+]

@@ -1,0 +1,33 @@
+{
+    "Potato": [
+      {"region": "Dhaka", "price": 34},
+      {"region": "Narayanganj", "price": 36},
+      {"region": "Chattogram", "price": 34},
+      {"region": "Rajshahi", "price": 31},
+      {"region": "Khulna", "price": 26},
+      {"region": "Sylhet", "price": 25},
+      {"region": "Rangpur", "price": 29},
+      {"region": "Barishal", "price": 31}
+    ],
+    "Tomato": [
+      {"region": "Dhaka", "price": 80},
+      {"region": "Narayanganj", "price": 79},
+      {"region": "Chattogram", "price": 79},
+      {"region": "Rajshahi", "price": 69},
+      {"region": "Khulna", "price": 73},
+      {"region": "Sylhet", "price": 77},
+      {"region": "Rangpur", "price": 68},
+      {"region": "Barishal", "price": 78}
+    ],
+    "Spinach": [
+      {"region": "Dhaka", "price": 28},
+      {"region": "Narayanganj", "price": 27},
+      {"region": "Chattogram", "price": 27},
+      {"region": "Rajshahi", "price": 26},
+      {"region": "Khulna", "price": 27},
+      {"region": "Sylhet", "price": 28},
+      {"region": "Rangpur", "price": 23},
+      {"region": "Barishal", "price": 23}
+    ]
+  }
+  
